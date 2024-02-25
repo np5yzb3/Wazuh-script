@@ -1,1 +1,1 @@
-A script to install wazuh and save you time.
+A script to install wazuh and save your time.
