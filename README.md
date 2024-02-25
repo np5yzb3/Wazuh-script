@@ -1,1 +1,1 @@
-A script to install wazuh and save your time.
+Remember to run this with root and change the ips.
